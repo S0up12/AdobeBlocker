@@ -5,7 +5,7 @@ import requests
 from AdobeBlocker import config
 
 # URL to the online block list (update with your actual GitHub raw URL)
-BLOCK_LIST_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/Adobe_Block_List.txt"
+BLOCK_LIST_URL = "https://raw.githubusercontent.com/S0up12/AdobeBlocker/refs/heads/main/data/adobe_block_list.txt"
 
 def read_block_list() -> list[str]:
     """
