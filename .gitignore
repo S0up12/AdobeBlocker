@@ -1,0 +1,30 @@
+# Ignore build outputs
+build/
+dist/
+
+# Ignore Python cache directories
+*/__pycache__
+
+# Ignore Git
+*/.gitattributes
+
+# Ignore specific files
+*.msi
+*.py
+*.spec
+*.wixobj
+*.wixpdb
+*.wxs
+*.psd
+*.rtf
+
+# (Optional) Common Python ignores
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.eggs/
+*.log
+pip-wheel-metadata/
+*.egg-info/
