@@ -10,7 +10,6 @@ dist/
 
 # Ignore specific files
 *.msi
-*.py
 *.spec
 *.wixobj
 *.wixpdb

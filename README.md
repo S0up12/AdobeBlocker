@@ -1,6 +1,3 @@
-Below is an example of a **README.md** for your Adobe Blocker application:
-
-```markdown
 # Adobe Blocker
 
 Adobe Blocker is a free, open-source Python desktop application designed to help you manage access to Adobe domains by modifying your Windows hosts file. The application provides a simple GUI that toggles between blocking and unblocking Adobe servers using a central, online block list that is updated for everyone.
@@ -96,6 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 Made by **S0up12**
-```
-
-Feel free to adjust the content and URLs to fit your exact setup. Enjoy Adobe Blocker!
